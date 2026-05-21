@@ -1,16 +1,22 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Ghazi%20Kanaan&textBg=false&fontColor=blue%20purple%20gradient&desc=Business%20Analytics%20|%20Machine%20Learning)
 
-<!--
-**GhaziKanaan/GhaziKanaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ghazi Kanaan 👋
 
-Here are some ideas to get you started:
+🎓 MS in Business Analytics  
+📊 Data Analytics | Machine Learning | BI  
+💻 SQL • Python • Tableau • Power BI  
+🤖 Deep Learning & Computer Vision Projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- DeepFace Emotion Analyzer
+- Netflix Viewership Dashboard
+- Spending Analysis Project
+
+## Skills
+- Python
+- SQL
+- Tableau
+- Power BI
+- TensorFlow
+- Machine Learning
+- Data Visualization
