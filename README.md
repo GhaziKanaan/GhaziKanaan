@@ -7,6 +7,20 @@
 💻 SQL • Python • Tableau • Power BI  
 🤖 Deep Learning & Computer Vision Projects  
 
+MS in Business Analytics - Oakland University
+
+Research Interests:
+- Machine Learning
+- Deep Learning
+- NLP
+- Arabic NLP
+- Data Analytics
+
+Published Research:
+- Arabic Email Spam Detection Using Machine Learning and Deep Learning
+- Arabic Tweet Sentiment Analysis Using Word Embeddings
+
+
 ## Featured Projects
 - DeepFace Emotion Analyzer
 - Netflix Viewership Dashboard
